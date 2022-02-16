@@ -1,0 +1,40 @@
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    text-align: center;
+    margin-right: 42%;
+    text-decoration: underline;
+    color: rgb(92, 92, 204)
+}
+
+.email_senha {
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+.loog {
+    margin-right: 45%;
+}
+
+.col-sm-10 {
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+.form-inline {
+    margin-left: 18%;
+}
+
+#menuuu{
+    margin-top:20px;
+    margin-left: 5%;
+}
+
+@media (min-width:1000px){
+        #sen{
+            margin-left: 30px;
+        }
+}

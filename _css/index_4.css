@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(235, 193, 88);
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.somos {
+    margin-top: 20%;
+}
+
+#menuuu{
+    margin-top: 5%;
+    margin-left: 5%;
+}
